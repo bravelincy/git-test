@@ -1,5 +1,6 @@
 本条消息来自master
 本条消息来自fix
 
+本条消息来自fix
 本条消息来自master
 本条消息来自master
