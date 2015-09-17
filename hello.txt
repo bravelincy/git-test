@@ -2,3 +2,5 @@ this is create by dir2.
 abc
 
 still add by dir2 master.
+
+add by master
